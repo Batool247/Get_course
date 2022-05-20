@@ -1,5 +1,5 @@
-# Get_course
+# Get_Course
 For get course
 
 
-## project Notes
+## Project Notes
