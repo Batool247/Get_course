@@ -2,4 +2,4 @@
 For get course
 
 
-## project nots
+## project Notes
